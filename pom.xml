@@ -975,7 +975,7 @@
         <maven.surefire.plugin.version>2.18.1</maven.surefire.plugin.version>
         <google.guava.version>20.0</google.guava.version>
         <guava.bundle.version>20.0.0</guava.bundle.version>
-        <andes.version>3.2.39</andes.version>
+        <andes.version>4.0.0</andes.version>
         <securevault.version>1.0.0-wso2v2</securevault.version>
         <slf4j.version>1.7.22</slf4j.version>
         <feign.version>9.5.0</feign.version>
