@@ -956,7 +956,7 @@
 
         <snakeyaml.version>1.19</snakeyaml.version>
         <snakeyaml.version.range>[1.19, 2.0.0)</snakeyaml.version.range>
-        <findbug.exclude.version>3.0.0</findbug.exclude.version>
+        <findbug.exclude.version>3.0.1u2</findbug.exclude.version>
         <!--Start of Dependency for integration gateway extension-->
         <carbon.messaging.version>3.0.2</carbon.messaging.version>
         <carbon.messaging.package.import.version.range>[0.0.0, 4.0.0)</carbon.messaging.package.import.version.range>
