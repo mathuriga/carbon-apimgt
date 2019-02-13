@@ -982,7 +982,7 @@
         <wiremock.version>2.5.0</wiremock.version>
         <lucene.version>3.6.2_1</lucene.version>
         <lucene.bundle.version>3.6.2.1</lucene.bundle.version>
-        <h2.version>1.4.192</h2.version>
+        <h2.version>1.4.197</h2.version>
         <carbon.lcm.version>1.2.0</carbon.lcm.version>
         <carbon.lcm.import.version.range>[1.2.0, 1.3.0)</carbon.lcm.import.version.range>
 
