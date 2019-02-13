@@ -868,7 +868,7 @@
         <maven.bundle.plugin.version>2.5.3</maven.bundle.plugin.version>
 
         <!-- Dependencies -->
-        <carbon.kernel.version>5.2.6</carbon.kernel.version>
+        <carbon.kernel.version>5.2.8</carbon.kernel.version>
         <carbon.kernel.package.import.version.range>[5.2.0, 6.0.0)</carbon.kernel.package.import.version.range>
         <carbon.apimgt.version>7.0.244-SNAPSHOT</carbon.apimgt.version>
 
